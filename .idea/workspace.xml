@@ -3,6 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="021a374f-453d-4408-9379-b23572f2ff1b" name="Changes" comment="initialize project structure with configuration files and sample Python script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -73,61 +76,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3263785051014887" />
-      <entry key="MS500" value="3.2122113940292434" />
-      <entry key="S2" value="4.429382392421251" />
-      <entry key="S5" value="4.759328194352095" />
-      <entry key="S10" value="4.877478995200983" />
-      <entry key="S30" value="4.958662957555978" />
-      <entry key="S60" value="4.979641385281257" />
-      <entry key="M2" value="5.056486622067709" />
-      <entry key="M5" value="6.501002069543311" />
-      <entry key="M10" value="9.247828132162052" />
-      <entry key="M15" value="11.005455644614262" />
-      <entry key="M30" value="13.48941970634899" />
-      <entry key="H1" value="15.093281308023865" />
-      <entry key="H2" value="16.005440079608668" />
-      <entry key="H4" value="16.491969654127224" />
-      <entry key="D1" value="16.913795345849863" />
-      <entry key="W1" value="16.987646977835716" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0006647892783405" />
+      <entry key="S2" value="1.2701280081884594" />
+      <entry key="S5" value="1.973068049814037" />
+      <entry key="S10" value="2.6169435743211302" />
+      <entry key="S30" value="3.4025587766493373" />
+      <entry key="S60" value="3.6795987690039107" />
+      <entry key="M2" value="3.89292814049721" />
+      <entry key="M5" value="4.682565355636181" />
+      <entry key="M10" value="5.983336452471671" />
+      <entry key="M15" value="7.360660526038208" />
+      <entry key="M30" value="11.275476093657625" />
+      <entry key="H1" value="15.95770933946537" />
+      <entry key="H2" value="19.72806960695893" />
+      <entry key="H4" value="22.14185514558209" />
+      <entry key="D1" value="24.48932477954344" />
+      <entry key="W1" value="24.926156732091613" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="8.193102896987858E-189" />
-      <entry key="S5" value="5.826119170571688E-76" />
-      <entry key="S10" value="2.413735522084324E-38" />
-      <entry key="S30" value="2.889991468022502E-13" />
-      <entry key="S60" value="5.37586408684455E-7" />
-      <entry key="M2" value="7.332028427962177E-4" />
-      <entry key="M5" value="0.05573007866274409" />
-      <entry key="M10" value="0.23607218951571587" />
-      <entry key="M15" value="0.3819705546932142" />
-      <entry key="M30" value="0.6180376644616524" />
-      <entry key="H1" value="0.786153715542738" />
-      <entry key="H2" value="0.8866530976333065" />
-      <entry key="H4" value="0.9416225876821909" />
-      <entry key="D1" value="0.9900249615831022" />
-      <entry key="W1" value="0.9985688647020785" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="5.313241510300462E-256" />
+      <entry key="S10" value="2.3050469648795573E-128" />
+      <entry key="S30" value="2.845945590171311E-43" />
+      <entry key="S60" value="5.334740471823635E-22" />
+      <entry key="M2" value="2.3097057110860756E-11" />
+      <entry key="M5" value="5.5644553162035936E-5" />
+      <entry key="M10" value="0.007459527676873109" />
+      <entry key="M15" value="0.03817750591350282" />
+      <entry key="M30" value="0.19539064950376414" />
+      <entry key="H1" value="0.44203014546947395" />
+      <entry key="H2" value="0.6648534766920253" />
+      <entry key="H4" value="0.8153854773614897" />
+      <entry key="D1" value="0.966556313603188" />
+      <entry key="W1" value="0.9951523996485457" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2983329717231522" />
-      <entry key="MS500" value="3.1967405370938327" />
-      <entry key="S2" value="4.423898933540464" />
-      <entry key="S5" value="4.756960115088641" />
-      <entry key="S10" value="4.876263710972866" />
-      <entry key="S30" value="4.958250709946503" />
-      <entry key="S60" value="4.979432334961191" />
-      <entry key="M2" value="5.056883107762026" />
-      <entry key="M5" value="6.554404988142133" />
-      <entry key="M10" value="9.480449231033269" />
-      <entry key="M15" value="11.384095519396267" />
-      <entry key="M30" value="14.105037594175323" />
-      <entry key="H1" value="15.877974553437165" />
-      <entry key="H2" value="16.891290590999255" />
-      <entry key="H4" value="17.433171500229378" />
-      <entry key="D1" value="17.903747359606434" />
-      <entry key="W1" value="17.986205350596748" />
+      <entry key="MS100" value="0.051832471613402605" />
+      <entry key="MS500" value="0.5536821541222242" />
+      <entry key="S2" value="1.105726167884377" />
+      <entry key="S5" value="1.8719633015877306" />
+      <entry key="S10" value="2.546853661710575" />
+      <entry key="S30" value="3.3699524010770294" />
+      <entry key="S60" value="3.6615475054767463" />
+      <entry key="M2" value="3.883401554077" />
+      <entry key="M5" value="4.678674583623997" />
+      <entry key="M10" value="5.988689442756848" />
+      <entry key="M15" value="7.397167271049595" />
+      <entry key="M30" value="11.46942949769226" />
+      <entry key="H1" value="16.398581311604215" />
+      <entry key="H2" value="20.3921525436906" />
+      <entry key="H4" value="22.956791868151917" />
+      <entry key="D1" value="25.455795796624635" />
+      <entry key="W1" value="25.921296664364352" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -148,8 +151,7 @@
             <option name="modelValue" value="auto" />
           </model>
         </option>
-        <option name="targetType" value="BACKGROUND" />
-        <option name="worktreeMode" value="WORKSPACE" />
+        <option name="targetType" value="LOCAL" />
       </template>
     </option>
   </component>
@@ -231,16 +233,36 @@
       <option name="project" value="LOCAL" />
       <updated>1782795756287</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update: modify workspace configuration and increment local task counter &#10;&#10;- Updated `.idea/workspace.xml` with revised completion features state data.&#10;- Incremented `localTasksCounter` due to the addition of a new task.">
+      <option name="closed" value="true" />
+      <created>1782795830851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782795830851</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize project structure with configuration files and sample Python script" />
     <MESSAGE value="add Flask application with basic course management functionality" />
     <MESSAGE value="refactor: enhance course management with JSON storage and robust API endpoints&#10;&#10;- Improved data handling with file-based storage.&#10;- Added validation for course data (required fields and valid statuses).&#10;- Refined CRUD operations for better error handling and stability.&#10;- Removed unused code and updated project dependencies." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: enhance course management with JSON storage and robust API endpoints&#10;&#10;- Improved data handling with file-based storage.&#10;- Added validation for course data (required fields and valid statuses).&#10;- Refined CRUD operations for better error handling and stability.&#10;- Removed unused code and updated project dependencies." />
+    <MESSAGE value="update: modify workspace configuration and increment local task counter &#10;&#10;- Updated `.idea/workspace.xml` with revised completion features state data.&#10;- Incremented `localTasksCounter` due to the addition of a new task." />
+    <option name="LAST_COMMIT_MESSAGE" value="update: modify workspace configuration and increment local task counter &#10;&#10;- Updated `.idea/workspace.xml` with revised completion features state data.&#10;- Incremented `localTasksCounter` due to the addition of a new task." />
   </component>
 </project>

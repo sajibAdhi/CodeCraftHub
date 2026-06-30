@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Python Programming",
+    "description": "Learn Python from scratch",
+    "target_date": "2023-12-31",
+    "status": "Not Started",
+    "created_at": "2023-10-01 12:34:56"
+  }
+]
