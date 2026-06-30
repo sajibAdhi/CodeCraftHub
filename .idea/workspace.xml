@@ -22,7 +22,13 @@
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sajib Adhikary &lt;tosajibadhi@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -65,6 +71,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000006076" />
+      <entry key="MS500" value="1.0057646087067156" />
+      <entry key="S2" value="1.7292649899947863" />
+      <entry key="S5" value="4.485576959577324" />
+      <entry key="S10" value="7.142684960202585" />
+      <entry key="S30" value="10.044238926944251" />
+      <entry key="S60" value="10.972486634294428" />
+      <entry key="M2" value="11.47318444218001" />
+      <entry key="M5" value="11.786052383115873" />
+      <entry key="M10" value="11.892481848141433" />
+      <entry key="M15" value="11.928199709176226" />
+      <entry key="M30" value="11.96403895309135" />
+      <entry key="H1" value="11.98200422485708" />
+      <entry key="H2" value="11.990998296212068" />
+      <entry key="H4" value="11.99549819363981" />
+      <entry key="D1" value="11.999249566340223" />
+      <entry key="W1" value="11.999892791943664" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.42336446549287E-217" />
+      <entry key="S2" value="9.580129905008198E-55" />
+      <entry key="S5" value="2.4691561701813696E-22" />
+      <entry key="S10" value="1.5713548835897538E-11" />
+      <entry key="S30" value="2.504713711365438E-4" />
+      <entry key="S60" value="0.015826287345317085" />
+      <entry key="M2" value="0.12580257288830415" />
+      <entry key="M5" value="0.4363910241901187" />
+      <entry key="M10" value="0.6605989889411872" />
+      <entry key="M15" value="0.7585052709601147" />
+      <entry key="M30" value="0.8709220808775687" />
+      <entry key="H1" value="0.9332320616425309" />
+      <entry key="H2" value="0.966039368577974" />
+      <entry key="H4" value="0.9828730175246307" />
+      <entry key="D1" value="0.9971249167094524" />
+      <entry key="W1" value="0.9995887668250446" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.2150708641907795E-9" />
+      <entry key="MS500" value="0.0186631869427997" />
+      <entry key="S2" value="0.8956118148054881" />
+      <entry key="S5" value="3.9085542238516844" />
+      <entry key="S10" value="6.77944762806962" />
+      <entry key="S30" value="9.90122494719962" />
+      <entry key="S60" value="10.913045306424952" />
+      <entry key="M2" value="11.559013514793783" />
+      <entry key="M5" value="12.204546092801067" />
+      <entry key="M10" value="12.543481839960572" />
+      <entry key="M15" value="12.68011853987797" />
+      <entry key="M30" value="12.831560915921962" />
+      <entry key="H1" value="12.913506696694878" />
+      <entry key="H2" value="12.956165107132513" />
+      <entry key="H4" value="12.97793294218829" />
+      <entry key="D1" value="12.996301157519278" />
+      <entry key="W1" value="12.999471076762019" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8,
   &quot;fromUser&quot;: false
@@ -97,6 +162,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -149,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782793612371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Flask application with basic course management functionality">
+      <option name="closed" value="true" />
+      <created>1782794466141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782794466141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,17 +231,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize project structure with configuration files and sample Python script" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize project structure with configuration files and sample Python script" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="add Flask application with basic course management functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Flask application with basic course management functionality" />
   </component>
 </project>
